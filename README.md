@@ -12,29 +12,82 @@ A minimalist personal finance app built with **Flutter and Dart**, designed for 
 
 ## Screenshots
 
-### Calendar
+### Main
 
-| Light Mode | Dark Mode |
-|---|---|
-| ![Calendar Light](screenshots/calendar-light.jpg) | ![Calendar Dark](screenshots/calendar-dark.jpg) |
+The main screen combines the interactive spending calendar with quick expense entry.
+
+<table>
+  <tr>
+    <th>Light Mode</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/calendar-light.jpg" width="250"></td>
+    <td><img src="screenshots/calendar-dark.jpg" width="250"></td>
+  </tr>
+</table>
 
 ### Expanded Day
 
-| Light Mode | Dark Mode |
-|---|---|
-| ![Expanded Day Light](screenshots/calendar-expanded-light.jpg) | ![Expanded Day Dark](screenshots/calendar-expanded-dark.jpg) |
+View the expenses recorded for an individual day.
+
+<table>
+  <tr>
+    <th>Light Mode</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/calendar-expanded-light.jpg" width="250"></td>
+    <td><img src="screenshots/calendar-expanded-dark.jpg" width="250"></td>
+  </tr>
+</table>
 
 ### Statistics
 
-| Light Mode | Dark Mode |
-|---|---|
-| ![Statistics Light](screenshots/statistics-light.jpg) | ![Statistics Dark](screenshots/statistics-dark.jpg) |
+Analyze spending patterns and totals.
+
+<table>
+  <tr>
+    <th>Light Mode</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/statistics-light.jpg" width="250"></td>
+    <td><img src="screenshots/statistics-dark.jpg" width="250"></td>
+  </tr>
+</table>
+
+### Search
+
+Search and browse recorded expenses.
+
+<table>
+  <tr>
+    <th>Light Mode</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/search-light.jpg" width="250"></td>
+    <td><img src="screenshots/search-dark.jpg" width="250"></td>
+  </tr>
+</table>
 
 ### Settings
 
-| Light Mode | Dark Mode |
-|---|---|
-| ![Settings Light](screenshots/settings-light.jpg) | ![Settings Dark](screenshots/settings-dark.jpg) |
+Manage application settings and customization.
+
+<table>
+  <tr>
+    <th>Light Mode</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/settings-light.jpg" width="250"></td>
+    <td><img src="screenshots/settings-dark.jpg" width="250"></td>
+  </tr>
+</table>
+
+
 
 ## Features
 
@@ -65,6 +118,7 @@ A minimalist personal finance app built with **Flutter and Dart**, designed for 
 - **Flutter**
 - **Dart**
 - **Riverpod**
+- **SQLite**
 - **TF-IDF**
 - **Logistic Regression**
 
