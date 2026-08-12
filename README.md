@@ -4,7 +4,7 @@ A minimalist personal finance app built with **Flutter and Dart**, designed for 
 
 ## Demo
 
-🎥 **[Watch Demo Video](https://www.youtube.com/shorts/AZ9ZMtqbLWA)**  
+🎥 **[Watch Demo Video](https://youtu.be/cKWLX1iqeQ8)**  
 📱 **[Download Android APK](https://drive.google.com/file/d/1UgCrMMRNKae5-ktWqpiUhkVNxMw9GPQu/view?usp=drive_link)**  
 
 > Spendiary is currently being prepared for its initial Android release.
