@@ -57,20 +57,6 @@ Analyze spending patterns and totals.
   </tr>
 </table>
 
-### Search
-
-Search and browse recorded expenses.
-
-<table>
-  <tr>
-    <th>Light Mode</th>
-    <th>Dark Mode</th>
-  </tr>
-  <tr>
-    <td><img src="screenshots/search-light.jpg" width="250"></td>
-    <td><img src="screenshots/search-dark.jpg" width="250"></td>
-  </tr>
-</table>
 
 ### Settings
 
